@@ -1,4 +1,4 @@
-# Ejercicio 4 — Historias de usuario (biblioteca)
+# Ejercicio 4— Historias de usuario (biblioteca)
 
 ## 1. Historias
 
